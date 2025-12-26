@@ -9,11 +9,10 @@ body {
   background-color: #fffeff;
 }
 
-/* ---hero section--- */
+/* ---hero section---- */
 
 #hero {
   margin-bottom: 120px;
-  padding-top: ;
   background: url('img/Hero-bg.png');
   background-size: 500px;
 }
